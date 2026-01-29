@@ -2,7 +2,7 @@
 Front-End Developer
 
 
-#✨ Sobre o Projeto
+✨ Sobre o Projeto
 Este é o meu portfólio profissional, desenvolvido com foco em:
 
 Design moderno e responsivo
